@@ -1,5 +1,5 @@
 ## odin-recipes
-Currently Working On:
+## Currently Working On:
     - Creating an HTML Webpage with links to a number of recipes
 
 ## Through this project, I hope to be able to:
@@ -15,7 +15,7 @@ Currently Working On:
     - Fixed error by committing index.html 
     - Launched page successfully 
     - Added information to README.md to track progress
+    - Edited recipe text accuracy - all recipes are ready to make!
 
 ## To Do:
-    - Edit recipe text 
     - Add CSS style elements 
